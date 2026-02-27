@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Santiago Miravete 👋
 
-<!--
-**lsmiravete/lsmiravete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ciencia de Datos en el ITAM.
+Actualmente trabajando en proyectos de análisis y limpieza de datos con Python.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python · Pandas · NumPy · Matplotlib
+- Limpieza de datos · Análisis exploratorio · Visualización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente aprendiendo
+- Programación orientada a objetos en Java
+- Gestión y preprocesamiento de datos
+- Estadística aplicada
+
+## 📫 Contacto
+- LinkedIn: [www.linkedin.com/in/luis-santiago-miravete-vega-6827b8291]
+- Correo: [lsantiagomv@hotmail.com]
