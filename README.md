@@ -1,7 +1,7 @@
 # Hola, soy Santiago Miravete 👋
 
 Estudiante de Ciencia de Datos en el ITAM.
-Actualmente trabajando en proyectos de análisis y limpieza de datos con Python.
+Trabajando principalmmente en proyectos de análisis y limpieza de datos con Python.
 
 ## 🛠️ Skills
 - Python · Pandas · NumPy · Matplotlib
